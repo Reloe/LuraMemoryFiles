@@ -2,3 +2,5 @@ After downloading these files you need to put them into the following folder ins
 \World of Warcraft\_retail_\Interface\ICONS
 
 You might already have files with this exact name in there, in which case you need to fully replace them.
+
+You might also have to restart your game after doing this.
